@@ -1,0 +1,9 @@
+1/Dark Dungeon/You have walked in a mysterious dungeon with little to no light/false/0,2,4,0/4/
+2/Empty Cavern/You have entered in a empty space full of rocks/false/0,3,5,1/1/
+3/Flower Fields/This room leads you to a flower field with sunlight streaming from above/false/0,0,6,2/0/
+4/The labyrinth/This room is full of illusions and mazes/false/1,5,7,0/0/
+5/Bat Cave/You walk into a dark room and see a bunch of bats hanging upside down/false/2,6,8,4/2/
+6/Angels hideout/You encounter a room where you see an angel, she gives you her blessing/false/3,0,9,5/0/
+7/Abandoned Mineshaft/You encounter a room and see many minecarts and excavation tools/false/4,8,0,0/0/
+8/Death room/You see a lot of dead knights and skulls/false/5,9,0,7/3/
+9/Devils hideout/You see a throne and fire blazing across the room/false/6,0,0,8/0/

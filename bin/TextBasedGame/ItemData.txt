@@ -1,0 +1,4 @@
+1/Pickaxe/"Shiny pickaxe good for mining resources"/8/2/Weapon
+2/Hammer/"Heavy tool for heavy bonking"/12/8/Weapon
+3/Angel Wings/"Attachment for Healing"/50/5/Healing
+4/Chocolate/"Tasty treat"/25/1/Healing

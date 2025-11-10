@@ -1,0 +1,34 @@
+UserManuel
+
+Hello welcome to the room explorer text Based adventure
+
+To move around and explore the rooms you must use the navigation commands
+Navigation commands:North,East,South,West
+
+for exploring a new room 
+type Explore
+
+for picking up items 
+type Pickup <item> or Pick up <item>
+
+For equipping items
+type equip <item>
+
+to use consumable items
+type use <item>
+
+
+for dropping items 
+type drop <item>
+
+for inspecting items 
+type inspect <item>
+
+for looking at whats in your inventory
+type inventory
+
+solve  a puzzle 
+type solve
+
+
+ 			
